@@ -1,13 +1,126 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Resume</title>
-</head>
-<body style="background-color: lightblue;">
+    <title>Revathi Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #e0eafc, #cfdef3);
+            margin: 0;
+            padding: 20px;
+        }
 
-    <h1>My Resume</h1>
-    <p>Name: Revathi</p>
-    <p>Role: Full Stack Developer</p>
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        h1, h2 {
+            color: #2c3e50;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .section {
+            margin-top: 20px;
+        }
+
+        ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+
+        .contact {
+            text-align: center;
+            font-size: 14px;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Revathi S</h1>
+    <p class="contact">
+        📞 8524847628 | ✉️ revathisundharamg04@gmail.com <br>
+        23/4, Tower Thottam, Ettimadai, Coimbatore - 641105
+    </p>
+
+    <div class="section">
+        <h2>Objective</h2>
+        <p>
+            My professional objective is to be a successful employee in a challenging 
+            and motivating organization and to utilize my skills for mutual growth.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Academic Profile</h2>
+        <ul>
+            <li><b>B.Sc Computer Science</b> - VLB Janakiammal College of Arts & Science (Bharathiar University)</li>
+            <li><b>HSC</b> - CCMA Girls Hr. Sec School (2018) - 68%</li>
+            <li><b>SSLC</b> - VLB Janakiammal Girls Hr. Sec School (2015) - 70%</li>
+            <li><b>SSLC</b> - (2013) - 84%</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Microsoft Office</li>
+            <li>HTML</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <ul>
+            <li>Tele Calling</li>
+            <li>Front Office Admin</li>
+            <li>1 Year 2 Months Experience</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Personal Qualities</h2>
+        <ul>
+            <li>Good Listener</li>
+            <li>Quick Learner</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Personal Profile</h2>
+        <ul>
+            <li><b>Name:</b> Revathi S</li>
+            <li><b>Father's Name:</b> Somasundharam</li>
+            <li><b>Date of Birth:</b> 04/01/1997</li>
+            <li><b>Gender:</b> Female</li>
+            <li><b>Nationality:</b> Indian</li>
+            <li><b>Religion:</b> Hindu</li>
+            <li><b>Languages:</b> Tamil, English</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Declaration</h2>
+        <p>
+            I hereby declare that the above information is true to the best of my knowledge.
+        </p>
+        <p><b>Place:</b> Coimbatore</p>
+        <p><b>Date:</b> __________</p>
+        <p style="text-align:right;"><b>(Revathi S)</b></p>
+    </div>
+
+</div>
 
 </body>
 </html>
