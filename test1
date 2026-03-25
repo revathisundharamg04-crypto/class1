@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+<body style="background-color: lightblue;">
+
+    <h1>My Resume</h1>
+    <p>Name: Revathi</p>
+    <p>Role: Full Stack Developer</p>
+
+</body>
+</html>
